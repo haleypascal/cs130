@@ -13,11 +13,16 @@
        <main>
             <section id="tutorials">
                 <h2>Tutorials</h2>
-                <!-- 
-                    Links to your tutorial assignments go here.
-                    When you submit a new tutorial, add a link to it
-                    here (if applicable)
-                -->
+                <nav class="navbar">
+                    <strong>Photos</strong>
+                    <a href=" <nav class="navbar">
+            <strong>Photos</strong>
+            <a href="file:///Users/haleypascal/Desktop/cs130/tutorial01/music.html">Music</a>
+            <a href="file:///Users/haleypascal/Desktop/cs130/tutorial01/videos.html">Videos</a>
+        </nav>"
+                    <a href="file:///Users/haleypascal/Desktop/cs130/tutorial01/music.html">Music</a>
+                    <a href="file:///Users/haleypascal/Desktop/cs130/tutorial01/videos.html">Videos</a>
+                </nav>
             </section>
             <section id="homework">
                 <h2>Homework</h2>
